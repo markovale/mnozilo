@@ -6,3 +6,6 @@ for i in range(5):
 
 for i in range(10):
     print(j)
+
+fro i in range(3):
+    print(i)
